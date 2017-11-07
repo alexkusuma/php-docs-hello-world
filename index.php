@@ -1,7 +1,7 @@
 <?php
+echo "<h1>Hello World!</h1>";
+echo "<p>Alex says: Hello World!<br/>";
+echo "How are you?</p>";
 
-echo "Alex says: Hello World!";
-echo "How are you?";
-
-echo "how long will this take to show up?";
+echo "<p>how long will this take to show up?</p>";
 ?>
